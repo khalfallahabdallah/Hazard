@@ -2,7 +2,6 @@
 <TestCaseEntity>
    <description></description>
    <name>CAT-test-booking</name>
-   <tag></tag>
-   <comment></comment>
+   
    <testCaseGuid>4f307cff-a017-4d22-88a4-82de0484862a</testCaseGuid>
 </TestCaseEntity>
